@@ -1,4 +1,4 @@
-package pojo;
+package com.yellowpaper.foundation.chatteroo.pojo;
 
 import java.io.*;
 

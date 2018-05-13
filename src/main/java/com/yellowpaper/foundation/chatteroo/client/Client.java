@@ -1,7 +1,7 @@
 package com.yellowpaper.foundation.chatteroo.client;
 
 import com.yellowpaper.foundation.chatteroo.gui.ClientGUI;
-import pojo.ChatMessage;
+import com.yellowpaper.foundation.chatteroo.pojo.ChatMessage;
 
 import java.net.*;
 import java.io.*;
